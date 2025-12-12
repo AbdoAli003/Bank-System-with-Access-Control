@@ -1,7 +1,7 @@
 # 🏦 Secure Bank System with Access Control (DAC)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPL-green?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-SHA256%20%2B%20Salt-red?style=for-the-badge)
 
 A robust command-line banking simulation that implements **Discretionary Access Control (DAC)**. This system allows users to securely manage their funds and explicitly control who has permission to view their financial data.
